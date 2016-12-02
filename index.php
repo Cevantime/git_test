@@ -1,1 +1,1 @@
-<?php echo 'Hello tout le monde !' ; ?>
+<?php include 'html/default.php' ; ?>
